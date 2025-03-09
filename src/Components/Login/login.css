@@ -1,0 +1,23 @@
+.forgot-link {
+    background: none;
+    border: none;
+    color: rgba(151, 3, 181, 0.8);
+    cursor: pointer;
+    font-size: 14.5px;
+    text-decoration: none;
+}
+
+.forgot-link:hover {
+    text-decoration: underline;
+}
+
+form .remenber-forgot{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin: -15px 0 15px;
+}
+
+form .error-message{
+    color: red;
+}
